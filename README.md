@@ -1,2 +1,2 @@
 # msp430_lp
-MSP430 LaunchPad
+Experimenting with  MSP430 LaunchPad 
